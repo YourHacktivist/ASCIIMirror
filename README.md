@@ -1,12 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="ASCII Mirror Banner" width="50%">
+</p>
 
-# ASCII Mirror
+<h1 align="center">ASCII Mirror</h1>
+<p align="center"><em>A real-time ASCII mirror that transforms your webcam feed into vintage digital art. Because sometimes staring at your pixelated face rendered in ASCII characters is exactly what you need to procrastinate intelligently.</em></p>
 
-## Description
-
-A real-time ASCII mirror that transforms your webcam feed into vintage digital art. Because sometimes staring at your pixelated face rendered in ASCII characters is exactly what you need to procrastinate intelligently.
-
-</div>
 
 ## What it does
 
